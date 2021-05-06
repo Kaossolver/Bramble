@@ -1,2 +1,2 @@
-# Bramble
-This is for our Bramble Game for the Makeathon competition
+# Briar
+This is for our game for the Makeathon competition, Briar
